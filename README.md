@@ -69,7 +69,8 @@ Other than computer science, these:
 
 * Mathematics
 * Graphic design
-* Music theory
+* Music and music theory
   * Xenharmonics
   * Chiptune
+  * Singing
 * Cooking
