@@ -12,9 +12,12 @@ These:
   * jQuery
   * GreaseMonkey
   * Node.js
+  * Bootstrap
+* Regexes: Yep.
 * Markdown: Yep.
 * TypeScript: Quite a bit.
 * Bash: Quite a bit.
+  * Linux
 * LaTeX: Kinda.
 * SQL: Kinda.
 * Python: Kinda.
